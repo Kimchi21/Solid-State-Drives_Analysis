@@ -30,7 +30,7 @@ The data used for this analysis is from a popular public [google spreadsheet](ht
 8. **Controller**: The controller chip used in the SSD, responsible for managing data.
 9. **Configuration**: The configuration details of the controller.
 10. **DRAM**: Indicates if the SSD uses DRAM (Dynamic Random-Access Memory).
-11. **MB**: Indicates if the SSD uses Host Memory Buffer technology.
+11. **HMB**: Indicates if the SSD uses Host Memory Buffer technology.
 12. **NAND Brand**: The brand of NAND flash memory used in the SSD.
 13. **NAND Type**: The type of NAND flash memory us.
 14. **Layers**: The number of storage layers in the NAND flash memory.
@@ -85,7 +85,7 @@ Micron constitutes half of the NAND Brand with a value of 213. This is followed 
 #### 9. **Distribution According to NAND Type**
 The most popular NAND Type being used for SSD's nowadays is TLC with a value of 88.1%. This is followed by QLC which has a value of 9.7% respectively.
 
-#### 10. **Distribution According to NAND Type**
+#### 10. **Distribution According to Layers**
 64 Layers is the most widely used Layer configuration with a count of 138 and is followed by 96 Layers and 176 Layers with values of 115 and 63.
 
 #### 11. **Read and Write Speeds**
